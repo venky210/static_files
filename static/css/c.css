@@ -1,0 +1,13 @@
+body
+{
+    background: linear-gradient(45deg,blue,white,yellow);
+}
+img
+{
+    border-radius: 20px;
+    margin-top: 40px;
+}
+h1
+{
+    color: red;
+}
